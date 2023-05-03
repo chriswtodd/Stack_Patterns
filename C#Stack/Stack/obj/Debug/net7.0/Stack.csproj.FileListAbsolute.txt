@@ -1,0 +1,5 @@
+C:\Users\Black Howler\Documents\Projects\C#Stack\Stack\obj\Debug\net7.0\Stack.csproj.AssemblyReference.cache
+C:\Users\Black Howler\Documents\Projects\C#Stack\Stack\obj\Debug\net7.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Black Howler\Documents\Projects\C#Stack\Stack\obj\Debug\net7.0\Stack.AssemblyInfoInputs.cache
+C:\Users\Black Howler\Documents\Projects\C#Stack\Stack\obj\Debug\net7.0\Stack.AssemblyInfo.cs
+C:\Users\Black Howler\Documents\Projects\C#Stack\Stack\obj\Debug\net7.0\Stack.csproj.CoreCompileInputs.cache
